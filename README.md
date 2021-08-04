@@ -15,7 +15,8 @@ This application allows a user(s), to manage their inventory. The user will be a
 3) Run "npm i" on your Terminal or Gitbash 
 4) The technologies used for this app include: MySQL2, Sequelize, Express, and Dotenv
 ## Usage
-- ![app gif](assets/demo.gif) this is demo of the software used
+- ![app gif](assets/demo.gif) 
+- *this is a gif demo of the software used, and how everything looks like 
 - [Click](https://drive.google.com/file/d/1U6YbNmTOBuVaRidM7KMGi-LQpwo4CJ-P/view) this link watch video walkthrough for this app. 
 ## License
 This application is under the MIT license.  
